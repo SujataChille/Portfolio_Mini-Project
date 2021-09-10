@@ -1,2 +1,2 @@
 # Portfolio_Mini-Project
-Mini-Project
+Portfolio Resume is created using HTML and CSS
